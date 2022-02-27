@@ -1,0 +1,478 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mirrour for Anabaptists in three rational discourses that may put the blush upon them, viz. 1. Pædobaptism defended and justified. 2. Anabaptism plainly confuted. 3. Some valid and suasory reasons to draw them from the errour of their way, to re-embrace the truth which they have deserted, and to return to the church of God from which they have departed. / By Thomas Gery ...</title>
+            <author>Gery, Thomas, d. 1670?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85959</idno>
+            <idno type="STC">Wing G619A</idno>
+            <idno type="STC">Thomason E1892_3</idno>
+            <idno type="STC">ESTC R232259</idno>
+            <idno type="EEBO-CITATION">50796701</idno>
+            <idno type="OCLC">ocm 50796701</idno>
+            <idno type="VID">170530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170530)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 235:E1892[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mirrour for Anabaptists in three rational discourses that may put the blush upon them, viz. 1. Pædobaptism defended and justified. 2. Anabaptism plainly confuted. 3. Some valid and suasory reasons to draw them from the errour of their way, to re-embrace the truth which they have deserted, and to return to the church of God from which they have departed. / By Thomas Gery ...</title>
+                  <author>Gery, Thomas, d. 1670?</author>
+               </titleStmt>
+               <extent>[8], 42 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Webb at the Kings-head, and W. Grantham at the Bear in St Pauls Church-yard, near the little North-door.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>With: Holy meditations upon God, his attributes and other chief points in religion. / By Thomas Gery. London, : Printed by T.C. for Nathanael Webb and William Grantham, at the black Bear in St. Pauls Church yard, 1658.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anabaptists --  Controversial literature.</term>
+               <term>Infant baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170530:1"/>
+            <pb facs="tcp:170530:1" rendition="simple:additions"/>
+            <p>A MIRROUR FOR Anabaptiſts, In three Rational DISCOURSES That may put the Bluſh upon them, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. <hi>Paedobaptiſm Defended and Juſtified.</hi>
+               </item>
+               <item>2. <hi>Anabaptiſm plainly Confuted.</hi>
+               </item>
+               <item>3. <hi>Some valid and ſuaſory Reaſons to draw them from the Errour of their way, to re<g ref="char:EOLhyphen"/>embrace the Truth which they have deſert<g ref="char:EOLhyphen"/>ed, and to return to the Church of God from which they have departed.</hi>
+               </item>
+            </list>
+            <p>By THOMAS GERY B.D. and Rector of <hi>Barwell</hi> in <hi>Leiceſterſhire.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 23.23.</hi>
+               </bibl> Buy the truth and ſell it not.</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Nath. Webb</hi> at the Kings-head, and <hi>W. Grantham</hi> at the Bear in S<hi rend="sup">t</hi> 
+               <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard, near the little North-door. 1660.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:170530:2"/>
+            <pb facs="tcp:170530:2"/>
+            <head>A PREFACE.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving peruſed ſome of the late Elaborate and Learned Wri<g ref="char:EOLhyphen"/>tings and Di<g ref="char:EOLhyphen"/>ſputes of our Modern Orthodox Divines, about Infant-Baptiſm, in Juſti<g ref="char:EOLhyphen"/>fication thereof, as alſo the vo<g ref="char:EOLhyphen"/>luminous, tedious and ſophiſti<g ref="char:EOLhyphen"/>cal Cavils, and exceptions againſt the Writings and Aſſertions of the aforeſaid Authors, by one M. <hi>Tombes,</hi> an Anti-paedo<g ref="char:EOLhyphen"/>baptiſt, and a very able Scholar,
+<pb facs="tcp:170530:3"/>yet no Anabaptiſt; as being no Separatiſt from the Church of <hi>England:</hi> I find them all ſet forth, dreſſed and adorned with ſo much Art and Eloquence, as tranſcends the capacity of the Vulgar people; ſo that ſome of them are like Painted Glaſſe-Windows, that are beautified with Pictures of divers colours, which while they pleaſe the ſight, do hinder the Light.</p>
+            <p>Now becauſe the vulgar illite<g ref="char:EOLhyphen"/>rate people do ſtand in need to have the truth of this Point of Faith about Infant-Baptiſm, to be held forth and cleared up un<g ref="char:EOLhyphen"/>to their apprehenſions, as who are mainly concerned therein; I did apprehend that it would be both a charitable and an accep<g ref="char:EOLhyphen"/>table work to tender unto them ſome plain and ſhort explication of this Point, and juſtification of <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. And therefore have here
+<pb facs="tcp:170530:3"/>endeavoured to epitomize and abbreviate the more large diſcuſ<g ref="char:EOLhyphen"/>ſions hereof before mentioned, and to lay the truth open with ſuch brevity, perſpicuity &amp; plain<g ref="char:EOLhyphen"/>neſs, as that it may be obvious to the eye of every rational and intelligent perſon that is not muffled with prejudice, and may neither coſt much mony to buy, nor much labour to read.</p>
+            <p>If any ſhall deem this a frivo<g ref="char:EOLhyphen"/>lous and needleſs work, after ſo many learned diſſertions and diſ<g ref="char:EOLhyphen"/>cuſſions thereof; my Apology and excuſe is this, That in my communication and conference with ſome of the Diſciples and Followers of Anabaptiſts, theſe enſuing Arguments have prevailed to give them a ſight of their errours, and to renounce them. And therefore in hope that they may work upon ſome more of them alſo, to this pur<g ref="char:EOLhyphen"/>poſe
+<pb facs="tcp:170530:4"/>(through his help, who worketh many times by weak means, that his own power may ſhine forth with greater luſtre) I have been induced to make them thus publick; If they prevail not to reduce any more Anabaptiſts from the errour of their way, yet they may happi<g ref="char:EOLhyphen"/>ly prevent their ſeducing of o<g ref="char:EOLhyphen"/>thers. I preſume not herein to add any thing to the Learned diſceptations and diſcourſes be<g ref="char:EOLhyphen"/>fore mentioned, but only to ab<g ref="char:EOLhyphen"/>breviate, modifie and accommo<g ref="char:EOLhyphen"/>date them to vulgar capacity and apprehenſions.</p>
+            <p>If hereby I ſhall convince but one misbelieving perſon of their errour about this Point, or con<g ref="char:EOLhyphen"/>firm but one in the right belief of it, I ſhall not repent me of my labour, though hereby I expect to incur the diſpleaſure and cen<g ref="char:EOLhyphen"/>ſure of many.</p>
+         </div>
+         <div type="to_the_author">
+            <pb facs="tcp:170530:4"/>
+            <head>To the AUTHOR.</head>
+            <opener>
+               <salute>My Reverend and Worthy Brother in the Miniſtry of the Goſpel.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have to my beſt ability peruſed this learned and laborious Piece of yours, wherein you have ſet before the face of all gainſayers, in a ſhort and plain, but pithy manner, all that is (or needs) to be collected from other accurate Aſſertors of the contrary to what the Anabaptiſts of this age alledg for their opinions without reaſon, and deſtitute of all
+<pb facs="tcp:170530:5"/>proof, down from the Apoſtles times and Primitive Churches: Your eludication of that <hi>19 Chap.</hi> of the <hi>Acts, v. 1.2, 3, 4, 5.</hi> is moſt convincing, and your Arguments concerning precedence of Faith not neceſſary in Infants; and the other both before and after that Section, are irrefragable.</p>
+            <p>But Alas Sir! we find when all is done to theſe men, and other op<g ref="char:EOLhyphen"/>poſers of thoſe manifeſt Truths held out and maintained by ancient and the moſt Learned of our Mo<g ref="char:EOLhyphen"/>dern Fathers, and defenders of that clear truth which you ſhew the world in this your Glaſs, and wherein many holy Martyrs have lived and died; yet, <hi>etiamſi nihil habeant contra nobiſcum tamen non ſentiunt;</hi> not becauſe they do not ſufficiently underſtand, but by reaſon of a reſolved on perverſity in the will.</p>
+            <p>And God knows, this is a com<g ref="char:EOLhyphen"/>mon
+<pb facs="tcp:170530:5"/>miſery incident to men, and this hath been and is a knot full of perplexities, which is made up in that Concluſion, <hi>Ultimus actus intellectûs eſt Voluntas:</hi> which if it were abſolutely true, then we might to good purpoſe ſtill labour in rectifying that Faculty of under<g ref="char:EOLhyphen"/>ſtanding, and ſo the will muſt follow: But we find and feel it otherwiſe, for we all do many ſins, which even the Soul of our under<g ref="char:EOLhyphen"/>ſtanding, our Conſcience checks us for, and which we know ought not to be done: No wonder then, if theſe men ſo abundantly convinced, will yet perſiſt in errour, and the evident reaſon of their wilful ſtub<g ref="char:EOLhyphen"/>bornneſs herein, is the ſame which is diſcovered in all Schiſmaticks, namely pride, accompanied with Faction and Singularity.</p>
+            <p>Your great and laſting Comfort is, to have ſo ſtrenuouſly conflicted with theſe unreaſonable and abſurd
+<pb facs="tcp:170530:6"/>Diſputers, and done enough, and more than ſatisfies all impartial Readers of your Book. In the only way remaining, and which you re<g ref="char:EOLhyphen"/>ſolve to take, I ſhall cordially joyn with you in commending theſe ar<g ref="char:EOLhyphen"/>rogant, and for the moſt part, ig<g ref="char:EOLhyphen"/>norant men to Gods Mercy, and the Word and Power of his Grace: Re<g ref="char:EOLhyphen"/>maining, Sir, as you have obliged me,</p>
+            <closer>
+               <dateline>
+                  <hi>Leiceſter,</hi> 
+                  <date>May <hi>20. 1659.</hi>
+                  </date>
+               </dateline>
+               <signed>Your Faithful Friend and Fellow Servant in Chriſt Jeſu, <hi>THO. PESTELL.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:170530:6"/>
+            <head>A Mirrour for Anabaptiſts.</head>
+            <div n="1" type="point">
+               <argument>
+                  <p>The firſt Point that I am to begin with is, the Arguments juſtifying Paedobaptiſm.</p>
+               </argument>
+               <p>
+                  <seg rend="decorInit">T</seg>HE firſt Ground and Ar<g ref="char:EOLhyphen"/>gument for Paedo-bap<g ref="char:EOLhyphen"/>tiſm,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>1</label> that I ſhall lay down, is the general Commandment that our Saviour Chriſt gave to his Apoſtles, <hi>Mat.</hi> 28.19. <hi>Go, teach all Nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghoſt:</hi> All the exception againſt this is, that Teaching being firſt enjoyned, makes Infants uncapable of Baptiſm, becauſe they are uncapable of Teaching.</p>
+               <p>To this it is anſwered, that the teaching there enjoyned, was the publication and preaching of the Go<g ref="char:EOLhyphen"/>ſpel to all Nations in the firſt place, before the Sacrament of Baptiſm was
+<pb n="2" facs="tcp:170530:7"/>to be adminiſtred unto them; which is moſt apparent from St. <hi>Mark</hi> his expreſſion of the ſame Commiſſion and Precept, <hi>Mark</hi> 16.15. <hi>Go ye into all the world and preach the Gospel to every Creature.</hi> That which St. <hi>Matthew</hi> phraſeth <hi>[teach]</hi> or <hi>[Diſci<g ref="char:EOLhyphen"/>ple]</hi> St. <hi>Mark</hi> expounds to be the preaching of the Goſpel. And this was neceſſary to be done in the firſt place, and accordingly was done be<g ref="char:EOLhyphen"/>fore ever any Nation received Bap<g ref="char:EOLhyphen"/>tiſm. So that when the Goſpel is preached to any Nation, and that Nation doth receive and entertain it, then is that Nation diſcipled or taught, and ſo put into a capacity and ſuſceptibility of the Sacrament of Baptiſm, and all in that Nation have a title unto it, whereof Infants are a conſiderable Party; whoſe Incapaci<g ref="char:EOLhyphen"/>ty of teaching doth not make them uncapable of Baptiſm, becauſe while they remain Infants, they are not in<g ref="char:EOLhyphen"/>cluded among thoſe that are to be taught: For our Saviour did not ſend his Diſciples to teach Infants, but men of years: And therefore the teaching pre-required, as ante<g ref="char:EOLhyphen"/>cedent
+<pb n="3" facs="tcp:170530:7"/>to Baptiſm, is neceſſarily re<g ref="char:EOLhyphen"/>quired only of men of years, that be docible, and not of Infants that are indocible. So that we acknowledge a neceſſity of a praevious &amp; precedane<g ref="char:EOLhyphen"/>ous teaching, before Baptiſm of doci<g ref="char:EOLhyphen"/>ble perſons, but not of Infants; becauſe they are capable of Baptiſm, though not of teaching. I know that pro<g ref="char:EOLhyphen"/>tervious and peeviſh Spirits are able and apt enough to cavil at any truth, be it never ſo clear, and ſo its proba<g ref="char:EOLhyphen"/>ble, will cavil at the interpretation of this place of Scripture: But the indifferent Reader may diſcern it to be both can did and conſonant to other Texts; for no where in Scripture is there any exception againſt this gene<g ref="char:EOLhyphen"/>ral Command of battizing all. Nati<g ref="char:EOLhyphen"/>ons that embrace the Goſpel, amongſt which Infants are a conſiderable par<g ref="char:EOLhyphen"/>ty (as was ſaid before) And there<g ref="char:EOLhyphen"/>fore where the Goſpel is preached and embraced, there Infants of that Nation are to be baptized by vertue of that command. For a general Command in Scripture to perform any duty appertaines to all perſons of what condition ſoever, unleſs in the
+<pb n="4" facs="tcp:170530:8"/>ſame Scripture ſome exception be ad<g ref="char:EOLhyphen"/>ded; whereas in this caſe there is no any.</p>
+               <milestone type="tcpmilestone" unit="Arg." n="2"/>
+               <p>A Second Argument may be th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> teſtimony of the ancient Fathers o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Church, who affirm it to be a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Apoſtolick Tradition, and ſo of the ſame authority and credibility with other Apoſtolick Traditions; ſuch as theſe, The Apoſtles Creed, Th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> change of the Sabbath from the la<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> day of the week to the firſt; an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what Books of Scripture are Canon<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>cal, and what Apocryphal. Whic<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Aſſertions being received by th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Church, as Apoſtolick Tradition<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are, and ever have been, acknowled<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed and embraced as undoubt<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Truths, though they be not <hi>(in t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>minis)</hi> word for word expreſſed i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Scripture: And ſo in like manner hath Infant-Baptiſm, as leaning upon the ſame ground with them; ſo that the Anabaptiſts may as well queſtion the truth of the Apoſtles Creed, an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſanctification of the firſt day of the week for the Sabbath, and the Canon of Scripture, as the lawfulneſs of Infant-Baptiſm, in that they <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:170530:8"/>lean upon one and the ſame foundati<g ref="char:EOLhyphen"/>on, <hi>i. e.</hi> Apoſtolick Tradition; which was ever held by the Churches of God to be of authentical authority, next unto Scripture it ſelf: For though the Reformed Churches diſ<g ref="char:EOLhyphen"/>claim Popiſh, Humane Traditions, as mens Inventions; yet theſe Apo<g ref="char:EOLhyphen"/>ſtolick Traditions, they receive and reverence, as unqueſtionable Truths. Now that the ancienteſt Fathers, as <hi>Dionyſius Areopagita, Juſtin Martyr, Origen,</hi> St. <hi>Auguſtine,</hi> with many others have witneſſed Paedo-Baptiſm to have been accounted and received as a Tradition Apoſtolical, neither can, nor is denied by the Learnedeſt Anabaptiſts. But yet they will not give credence to their teſtimony hereof, which how void of Charity it is to cenſure ſuch renowned Doctors, as reporters of an untruth, eſpecially in matters of Religion, I leave it to be conſidered of, by all perſons of underſtanding.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>3</label> 
+               </p>
+               <p>A Third Argument may be the conſtant practice of Infant-Baptiſm by all Chriſtian Churches from the ve<g ref="char:EOLhyphen"/>ry next age after the Apoſtles, to this
+<pb n="6" facs="tcp:170530:9"/>preſent age. This was witneſſed by <hi>Dionyſius,</hi> who lived in the Apoſtles time, and <hi>Ignatius,</hi> and <hi>Juſtin Mar<g ref="char:EOLhyphen"/>tyr,</hi> and <hi>Iraeneus</hi> and <hi>Origen.</hi> This is proved at large by many learned men, who of late have written of this Subject, and therefore I will ſuper<g ref="char:EOLhyphen"/>ſede the labour of rehearſing the par<g ref="char:EOLhyphen"/>ticular proofs thereof; eſpecially conſidering that the moſt learned of the Adverſaries of this truth, do not deny this; but yet condemn it as an errour and a very pernicious abuſe, needful to be taken away out of the Church of God, as is to be ſeen in Mr. <hi>Tombes</hi> his Antipedo-Baptiſm, in the 3<hi rend="sup">d</hi> Part, and Section the 98 about the middle of the Section; which is a preſumptuous cenſure, unfit for any particular man to paſs againſt the Church.</p>
+               <p>Now this practice of Paedo-Baptiſm by the Univerſal Church of Chriſt in all ages and places is an Argument ir<g ref="char:EOLhyphen"/>refragable and unanſwerable, to prove the lawfulneſs of it: For the Church is the ground and pillar of truth, ſo ſaith the Apoſtle, 1 <hi>Tim.</hi> 3.16. Parti<g ref="char:EOLhyphen"/>cular Churches may erre both in judg<g ref="char:EOLhyphen"/>ment
+<pb n="7" facs="tcp:170530:9"/>and practiſe, but the Univerſal Church cannot erre in any important point of Faith, ſuch as this is; becauſe of Chriſts promiſe to it, both of prote<g ref="char:EOLhyphen"/>ction and direction in ſeveral Texts, as <hi>Mat.</hi> 28.20. <hi>Teaching them to ob<g ref="char:EOLhyphen"/>ſerve all things whatſoever I have com<g ref="char:EOLhyphen"/>manded you, and lo, I am with you al<g ref="char:EOLhyphen"/>way, even to the end of the world;</hi> which could not be meant only of the Apo<g ref="char:EOLhyphen"/>ſtles, (as who could not live to the end of the world) but of neceſſity of the whole Catholick Church. And <hi>John</hi> 14.16. <hi>I will pray the Father, and he ſhall ſend you another Comforter, that he may abide with you for ever, even the Spirit of truth.</hi> And again, <hi>John</hi> 16.13. He promiſeth his Diſciples again, to <hi>ſend</hi> them <hi>the Spirit of truth, which ſhould guide them into all truth.</hi> Seeing therefore the Univerſal Church for many ages, and thoſe next ſucceeding the Apoſtles, have allow<g ref="char:EOLhyphen"/>ed and practiſed Infant-Baptiſm, no intelligent godly Chriſtian may oppoſe it, without manifeſt contempt of the ſentence and judgment of the Catholick Church; which whoſe will not hear, is to be accounted as a hea<g ref="char:EOLhyphen"/>then
+<pb n="8" facs="tcp:170530:10"/>man, and a publican, <hi>Mat.</hi> 18.17. If ſome particular Churches on<g ref="char:EOLhyphen"/>ly had practiſed it, the Legality of it might have been queſtioned; but ſeeing all Churches for many ages did practile it, the legality of it is thereby made unqueſtionable.</p>
+               <p>A Fourth Argument may be the Circumciſion of Infants in the time of the Jewiſh Church.
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>4</label> For if Bap<g ref="char:EOLhyphen"/>tiſm be the Sacrament, now under the Goſpel, that ſucceeds the Jewiſh Circumciſion, which is aboliſhed; then, by the rule of analogy and pro<g ref="char:EOLhyphen"/>portion, and parity that is betwixt them, to whom Circumciſion belong<g ref="char:EOLhyphen"/>ed under the Law, to thoſe Baptiſm belongs under the Goſpel. But Bap<g ref="char:EOLhyphen"/>tiſm is the Sacrament now under the Goſpel, that ſucceeds and comes in place of the Jewiſh Circumciſion: Which is moſt apparent from <hi>Col.</hi> 2.11, 12. Where the Apoſtle proves that the <hi>Colloſſians were circumciſed with the circumciſion made without hands, in putting off the body of the ſins of the fleſh, by the circumciſion of Chriſt, being buried with him in Baptiſm;</hi> that is, becauſe they were baptized in or
+<pb n="9" facs="tcp:170530:10"/>into his name; for elſe the Apoſtles argumentation were inconſequent, if Baptiſm did not come in place of Circumciſion; for in affirming they were circumciſed, becauſe they were baptized, he declares Baptiſme to come in room of Circumciſion: Hence therefore it followes that as Infants were to be circumciſed in the time of the Law, ſo Infants are to be baptized under the Goſpel.</p>
+               <p>I cannot conceive what exceptions can be brought againſt this argument, but one of theſe two.</p>
+               <p n="1">1. Either the unfitneſs to require a Covenant of a Child, that cannot ſpeak to declare it. Or,</p>
+               <p n="2">2. Becauſe there is not a particular Commanding Scripture for it.</p>
+               <p>If the firſt be objected, I Anſwer, That to lay an imputation of unfitneſs upon Infant-Baptiſm in that reſpect; is to charge God, himſelf with com<g ref="char:EOLhyphen"/>manding that which was unfit (which were audacious preſumption, if not blaſphemy) for he commanded In<g ref="char:EOLhyphen"/>fants to be circumciſed, whereby they entred into a Covenant with God, though they could neither ex<g ref="char:EOLhyphen"/>preſs
+<pb n="10" facs="tcp:170530:11"/>it nor know of it, <hi>Gen.</hi> 17.</p>
+               <p>To the ſecond exception (which I find in Mr. <hi>Tombes,</hi> in the 3d. Part of his Anti-paedo-Baptiſm, ſection, 11. near the end) I return a three<g ref="char:EOLhyphen"/>fold Anſwer.</p>
+               <p n="1">1. I anſwer, That what is colligi<g ref="char:EOLhyphen"/>ble and deducible from Scripture by good and undeniable conſequence, (as Infant-Baptiſm is) is of force and creditable, as well as what hath precept or example. For its an errone<g ref="char:EOLhyphen"/>ous Principle (as the learned &amp; judici<g ref="char:EOLhyphen"/>ous Doctor <hi>Saunderſon</hi> hath obſerved and taxed in his Preface lately prefix<g ref="char:EOLhyphen"/>ed to a new Addition of ſome Ser<g ref="char:EOLhyphen"/>mons of his that had been formerly publiſhed) to hold that a man may do nothing (meaning about the reli<g ref="char:EOLhyphen"/>gious Service of God) for which there cannot be produced either com<g ref="char:EOLhyphen"/>mand or example from Scripture; for ſo he ſhould be barred from deduct<g ref="char:EOLhyphen"/>ing any doctrinal concluſions from Scripture, but what are ſpecified in it either by precept or example; which would much infringe and ſtraighten the Ordinance of preaching.</p>
+               <p n="2">2. I anſwer, that though it were
+<pb n="11" facs="tcp:170530:11"/>granted, that it's fit to have either precept or example for performance of religious duties; yet for circum<g ref="char:EOLhyphen"/>ſtances about the pe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>formance of them it's not neceſſary; and this is but a cir<g ref="char:EOLhyphen"/>cumſtance, <hi>Ergo.</hi>
+               </p>
+               <p n="3">3. I anſwer, that there is an im<g ref="char:EOLhyphen"/>plicite Command as well as an expli<g ref="char:EOLhyphen"/>cite, and the former is a ſufficient warrant, and that Infant-Baptiſm hath; namely in <hi>Mat.</hi> 28.19. as for<g ref="char:EOLhyphen"/>merly hath been declared.</p>
+               <p>A Fifth Argument,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>5</label> Infants have remiſſion of ſins and ſalvation by Chriſt, as well as thoſe of riper years: This is proved by <hi>Mat.</hi> 18.3. Where our Saviour ſaith, <hi>Except ye be convert<g ref="char:EOLhyphen"/>ed and become as little children, ye ſhall not enter into the Kingdom of Heaven.</hi> And from (<hi>Mark</hi> 10.14. <hi>Suffer little children to come unto me, and forbid them not, for of ſuch is the Kingdom of God.</hi> This being granted that Infants are ſaved (ſome at leaſt, which is ſufficient for the preſent purpoſe) it followes, that then they are made members of the Church of Chriſt; for, <hi>extra eccleſiam non eſt ſalus,</hi> out of the Church there is no ſalvation:
+<pb n="12" facs="tcp:170530:12"/>It was the ſentence of <hi>Cyprian, Lib. de unitate Eccleſ.</hi> and it hath ever been owned as a truth by all Orthodox Di<g ref="char:EOLhyphen"/>vines; as which hath its ground from <hi>Acts</hi> 2.47. Where it's ſaid, <hi>that God added daily unto the Church ſuch as ſhould be ſaved;</hi> which implies thus much, that all ſuch as are ſaved, are firſt added unto the Church. And Mr. <hi>Tombes</hi> acknowledgeth this to be true, underſtanding by the Church, the inviſible Church of the Elect, in his Anti-paedo-Baptiſm, Part 3. Sect. 9. <hi>pauſo poſt medium,</hi> which is as much as we require to be granted.</p>
+               <p>Whence I argue thus, If Infants he members of the Church of Chriſt, then they are cleanſed from their ſins by ſuch waies and means as the Church is cleanſed (this is undeni<g ref="char:EOLhyphen"/>able) But the Church is cleanſed <hi>by the waſhing of water through the Word,</hi> Eph. 5.26. <hi>i. e.</hi> by the Sacrament of Baptiſm, through the word; and therefore Infants alſo, as which are members of it. And if ſo, then the Sacrament of Baptiſm belongs to them, and may not be withheld from them, neither in Charity nor
+<pb n="13" facs="tcp:170530:12"/>Equity. For if they be members of the Church, which is cleanſed by the waſhing of water through the word, then this waſhing of water through the word (which can be no other but Baptiſm) belongs unto them, as be<g ref="char:EOLhyphen"/>ing the means whereby they are made members of the Church.</p>
+               <p>If it be objected againſt this Argu<g ref="char:EOLhyphen"/>ment (which is all that can be object<g ref="char:EOLhyphen"/>ed) that ſome Infants are ſaved, and ſo are made members of the Church, and yet die before they be baptized,</p>
+               <p>I anſwer, that ſuch are ſaved after an unknown and extraordinary way, which puts no bar to the ordinary way and means of ſalvation by God ap<g ref="char:EOLhyphen"/>pointed, which is Baptiſm; as the fore-cited Text of Scripture proves, with many other. For Gods extraor<g ref="char:EOLhyphen"/>dinary works wrought either without means or againſt means, are no Pat<g ref="char:EOLhyphen"/>terns and Preſidents for us to follow, nor do at all warrant us to neglect the uſe of ordinary means. Gods mitaculous preſervation of the lives of <hi>Moſes</hi> and <hi>Elias</hi> fourty daies with<g ref="char:EOLhyphen"/>out food, is no warrant for others to faſt ſo long: Nor his miraculous
+<pb n="14" facs="tcp:170530:13"/>work in providing a Whale to ſave <hi>Jo<g ref="char:EOLhyphen"/>nas</hi> from drowning, when he was caſt into the ſea, any warrant for others to throw themſelves into the ſea, and yet expect to be ſaved from drowning. And therefore Gods mercy to Infants unbaptized, in ſaving them after an unknown and extraordinary way, is no warrant for us to neglect to bap<g ref="char:EOLhyphen"/>tize Infants, which is the ordinary way and means appointed by God for their ſanctification and ſalvation, as in the next Argument is largely pro<g ref="char:EOLhyphen"/>ved.</p>
+               <p>If any Anabaptiſt can anſwer this Argument fully and fairly without ſhifting and ſhuffling, I ſhall never truſt my own Judgment again; but ſhall be ever jealous of the ſhallow<g ref="char:EOLhyphen"/>neſs of it.</p>
+               <p>A Sixth Argument;
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>6</label> All means of Grace and Salvation which God hath appointed as inſtrumetal to that end, are to be afforded to Infants, which they are ſuſceptive or recep<g ref="char:EOLhyphen"/>tive and capable of (this no rational perſon will deny) For when God hath appointed the means to any end, we are tied to the uſe thereof; if we
+<pb n="15" facs="tcp:170530:13"/>expect to attain to that end; as I might inſtance in divers particulars: But Baptiſm is a means of Grace and ſalvation, which Infants are receptive and capable of, and therefore it is to be afforded and miniſtred unto them.</p>
+               <p>That it is a means of Grace, <hi>i. e.</hi> of remiſſion of ſin, and ſo conſe<g ref="char:EOLhyphen"/>quently of ſalvation (which is all that I ſtand in need to prove) is oft affirmed in Scripture, <hi>Acts.</hi> 2.38. <hi>Re<g ref="char:EOLhyphen"/>pent and be baptized every one of you in the name of Jeſus Chriſt, for the remiſ<g ref="char:EOLhyphen"/>ſion of ſins,</hi> Acts 22.16. <hi>Ariſe and be baptized</hi> (ſaith <hi>Ananias</hi> to <hi>Saul) and waſh away thy ſins, calling on the name of the Lord.</hi> Rom. 6.4. <hi>We are buried with him by Baptiſm into his death, i. e.</hi> made partakers by bap<g ref="char:EOLhyphen"/>tiſm of the merits of his death and bu<g ref="char:EOLhyphen"/>rial. <hi>Eph.</hi> 5.26. (the Text before alledged) It is ſaid, that <hi>Chriſt ſan<g ref="char:EOLhyphen"/>ctifieth and cleanſeth his Church by the waſhing of water through the Word,</hi> Tit. 3.5. It is called <hi>the Laver of regene<g ref="char:EOLhyphen"/>ration,</hi> 1. Pet. 3.21. It's called <hi>the Figure that ſaveth us.</hi> Out of all which Texts, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> apparent, that bap<g ref="char:EOLhyphen"/>tiſm
+<pb n="16" facs="tcp:170530:14"/>is appointed of God as one means (together with other) of re<g ref="char:EOLhyphen"/>miſſion of ſin, grace and ſalvation; which though it doth not alwaie; con<g ref="char:EOLhyphen"/>fer the ſame <hi>ex opere operato</hi> (as the Papiſts erroneouſly affirm) yet al<g ref="char:EOLhyphen"/>waies it doth ſo, when God is pleaſed to vouchſafe the concurrence and co<g ref="char:EOLhyphen"/>operation of his holy Spirit with it, which alſo of neceſſity is required to all other means of Grace, to make them effectual, as well as to Baptiſm; as namely, both to the Word preach<g ref="char:EOLhyphen"/>ed, and to Prayer, or they avail not. This then being proved, that baptiſm is a means of Grace by Gods appoint<g ref="char:EOLhyphen"/>ment, it neceſſarily follows, that it appertains to Infants, as who are receptible of Grace as well as thoſe that are of ripe years; and there<g ref="char:EOLhyphen"/>fore baptiſm which is a means of grace, ought not to be withheld from them.</p>
+               <p>Al that is or can be anſwerd to invali<g ref="char:EOLhyphen"/>date the force of this argument, is this, That though Infants are in themſelves capable of baptiſm, as being a means of Grace, yet the Scripture puts a bar to them, becauſe they want Faith,
+<pb n="17" facs="tcp:170530:14"/>which is required before baptiſm.</p>
+               <p>To this it is anſwered, that the precedence of Faith is required only of ſuch as are capable of Faith, and not of Infants which are not in a ca<g ref="char:EOLhyphen"/>pacity of it; which I thus demon<g ref="char:EOLhyphen"/>ſtrate:</p>
+               <p>If Faith, and ſo conſequently Re<g ref="char:EOLhyphen"/>miſſion of ſin and Regeneration, were alwaies and of all, neceſſarily requi<g ref="char:EOLhyphen"/>red before baptiſm, then baptiſm could never be a means and inſtru<g ref="char:EOLhyphen"/>mental cauſe to bring forth faith and regeneration: For if Faith and regeneration muſt go before it, then it cannot be the inſtrumental cauſe of Faith and regeneration; for the ef<g ref="char:EOLhyphen"/>fect cannot go before the cauſe.</p>
+               <p>But that it is ſomtimes and to ſome a means of regeneration, remiſſion of ſin, Faith and other Grace, is ſuffi<g ref="char:EOLhyphen"/>ciently proved by the Texts before quo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed.</p>
+               <p>Therefore the precedence of faith is not neceſſarily required of all to be baptized. I apprehend the force of this Argument, and the laſt before this, to be ſuch as will ſtall any Anabaptiſt whatſoever, to enevate or invalidate.</p>
+               <pb n="18" facs="tcp:170530:15"/>
+               <p>To theſe,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>7</label> I might add a Seventh Argument, very valid and convin<g ref="char:EOLhyphen"/>cing, which is the Title and Intereſt which the Infants of Chriſtians have to the Covenant of Grace: For if the Covenant of Grace it ſelf belong to Infants (which hath been former<g ref="char:EOLhyphen"/>ly proved from <hi>Mat.</hi> 18.3. &amp; <hi>Mark</hi> 10.14. and is juſtifiable by many other Texts of Scripture) then the ſeal thereof alſo belongs to them.</p>
+               <p>But becauſe this Argument is ſo largely and fully preſſed already by divers learned men, I will omit all further proſecution of it: and con<g ref="char:EOLhyphen"/>clude this firſt point thus: Its an old adage and a conſeſſed truth, that force united becomes more forcible. Lay now all theſe Arguments and conſide<g ref="char:EOLhyphen"/>rations together (the leaſt whereof will ſway with any, but ſuch as are foreſtalled with prejudice) and paedo<g ref="char:EOLhyphen"/>baptiſm will ſtand as a truth infringi<g ref="char:EOLhyphen"/>ble, and a Fort impregnable and in<g ref="char:EOLhyphen"/>ſuperable.</p>
+            </div>
+            <div n="2" type="point">
+               <pb n="19" facs="tcp:170530:15"/>
+               <head>The Second Point. </head>
+               <argument>
+                  <p>
+                     <hi>Having now ſufficiently proved the law<g ref="char:EOLhyphen"/>fulneſs and neceſſary uſe of Paedo-bap<g ref="char:EOLhyphen"/>tiſm, I come in the next place to con<g ref="char:EOLhyphen"/>fute what is repugnant to it, which is Anabaptiſm, or dipping ſuch as have been baptized in their Infancy. And my firſt Argument I frame thus:</hi>
+                  </p>
+               </argument>
+               <p>THat opinion or Doctrine in Re<g ref="char:EOLhyphen"/>ligion, which is new,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>1</label> is not true (this is denyed of none)</p>
+               <p>But ſuch is Anabaptiſm, or the re<g ref="char:EOLhyphen"/>baptization of ſuch as have been bap<g ref="char:EOLhyphen"/>tized in their infancy:</p>
+               <p>Therefore it's not true.</p>
+               <p>I prove the Aſſumption thus; be<g ref="char:EOLhyphen"/>cauſe its not to be found in Scripture, neither by precept not example, nor by good conſequence to be deducted from it, but was broached about 300 or 400 years after the Aoſtles, by one <hi>Donatus</hi> a Presbyter about <hi>Car<g ref="char:EOLhyphen"/>thage</hi> in <hi>Affrica,</hi> as is teſtified by ſe<g ref="char:EOLhyphen"/>veral Authors, amongſt whom St. <hi>Auguſtine</hi> is a principal; who writ a
+<pb n="20" facs="tcp:170530:16"/>Book in confutation of him. I have heard that ſome Anabaptiſts in an<g ref="char:EOLhyphen"/>ſwer hereunto, have alledged, <hi>Acts</hi> 19.2, 3, 4, &amp; 5 verſes, as a preſident and example for re-baptization. But I ſhall clear that Text from warrant<g ref="char:EOLhyphen"/>ing it, which I do demonſtrate theſe two waies.</p>
+               <p n="1">1. Becauſe the Evangeliſt doth not ſay of thoſe there mentioned that they were rebaptized, but baptized; he ſaith not, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, he ſaith not, which when they heard, they were rebaptized (which had been the more proper ſpeech, if they had been truly baptized before) but he ſaith, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>i. e.</hi> which when they heard, they were baptized; which intimates, they were not rightly baptized till then, and therefore that was no reite<g ref="char:EOLhyphen"/>ration of their baptiſm, but their firſt baptiſm.</p>
+               <p n="2">2. Its apparent from the Context, that they were not rightly baptized before, that is, baptized in a right form; and therefore this was no re<g ref="char:EOLhyphen"/>baptization, but a firſt baptiſm: For the right form is, to be baptized in
+<pb n="21" facs="tcp:170530:16"/>the name, or into the name of the Fa<g ref="char:EOLhyphen"/>ther, and of the Son, and of the Holy Ghoſt, or in the name of the Lord Jeſus, which is the ſame in ſubſtance with the former, though in fewer words.</p>
+               <p>Now that they were not baptized in the Name of the Father, and of the Sonne, and of the holy Ghoſt, is moſt apparent, in that they ſaid in the ſecond verſe, that they had not ſo much as heard, <hi>whether there were a Holy Ghoſt;</hi> which they muſt needs have heard, if they had been baptized in his name. Neither were they baptized in the name of the Lord Jeſus before, for in that its ſaid, <hi>they were baptized in the name of the Lord Jeſus then,</hi> it undeniably implies, that they were not baptized in his name till then; and ſo conſe<g ref="char:EOLhyphen"/>quently not truly and rightly baptized till then: And ſo I hope I have cleared this Text from warranting the Anabaptiſts rebaptization, or dipping thoſe that have been formerly bapti<g ref="char:EOLhyphen"/>zed in their Infancy.</p>
+               <p>The Profeſſors of Anabaptiſm at their firſt appearing in the Chriſtian Church,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>2</label> and boaſting themſelves to
+<pb n="22" facs="tcp:170530:17"/>be the only true Church (which was done by <hi>Donatus</hi> and his Diſciples, as was declared in the former argument) were condemned by the Church then as Hereticks, and cut off as unſound members, and were ſo ſuppreſſed by it, that for the ſpace of 1000 years or thereabouts, there never appeared any face of them again in any Chriſtian Nation. This is a truth ſo clear out of all Hiſtories, that make mention of them, that I preſume there is none of them that have the face to go about to outface it.</p>
+               <p>But this, namely a ceſſation to be, can never befal the true Church of Chriſt, witneſs many Texts of Scri<g ref="char:EOLhyphen"/>pture, as <hi>Pſal.</hi> 125.1. <hi>They that truſt in the Lord, ſhall be as Mount Sion, that cannot be removed, but remaineth for ever.</hi> Mat. 16.18. <hi>Upon this Rock will I build my Church, and the gates of Hell ſhall not prevail againſt it.</hi> And <hi>Eſay</hi> 27.3. <hi>Leſt any aſſail it, I keep it, ſaith the Lord.</hi> with many ſuch like, which juſtifie that the true Church of God cannot fail and ceaſe to be.</p>
+               <p>Whereas therefore there appeared
+<pb n="23" facs="tcp:170530:17"/>no face of Anabaptiſtical Profeſſors for ſo long a time, it proclaims them to be no true Church of Chriſt, and ſo their anabaptiſtical Profeſſion not to be truth. This argument I once uſed in a diſpute with one Mr. <hi>Oats</hi> (a <hi>Co<g ref="char:EOLhyphen"/>ryplaeus</hi> and teacher of note amongſt them) and all the anſwer he returned, was this, that he had heard that there had been ſome of their profeſſion for<g ref="char:EOLhyphen"/>merly in <hi>Hungary;</hi> which was both an inſufficient anſwer, and a tacite and clandeſtine confeſſion, that they muſt either prove the continuance of ſuch profeſſion and profeſſors from the Apoſtles times, (which they never can, nor (that I ever heard) attempted to do) or elſe muſt yield themſelves in a manifeſt and obſtinate Errour.</p>
+               <p>The Anabaptiſts interpretation of ſeveral Texts of holy Scripture,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>3</label> as if they did impugn and diſallow Infant-Baptiſm, is diſſonant and diſſentane<g ref="char:EOLhyphen"/>ous from the interpretation of all vi<g ref="char:EOLhyphen"/>ſible Churches, both before and ſince their appearance; and therefore is a private interpretation, and ſo is repug<g ref="char:EOLhyphen"/>nant to St. <hi>Peters</hi> Doctrine, who tels us, that <hi>no propheſie of Scripture is of
+<pb n="24" facs="tcp:170530:18"/>any private Interpretation,</hi> 2 Pet. 1.20.</p>
+               <p>Divers of the Fathers affirm, that the Primitive Church received of the Apoſtles not only the Scripture, but the genuine and true Interpretation thereof, and this indeed in all proba<g ref="char:EOLhyphen"/>bility was ſo. And therefore if the Primitive Church held Paedo-Baptiſm to be agreeable to Scripture, and ſo accordingly practiſed it (as before hath been declared) its out of doubt a doctrine of truth, and the Anabap<g ref="char:EOLhyphen"/>tiſts reclamation and oppoſition of it (as if it were not warrantable by Scri<g ref="char:EOLhyphen"/>pture) a private and novel miſ-inter<g ref="char:EOLhyphen"/>pretation of Scripture, and therefore to be diſavowed, deteſted and explo<g ref="char:EOLhyphen"/>ded.</p>
+               <p>Re-baptization of thoſe that have been baptized before,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>4</label> is repugnant to Scripture, which allowes but one Baptiſm, <hi>Eph.</hi> 4.4. <hi>There is one Lord, one Faith, one Baptiſm.</hi>
+               </p>
+               <p>But our Infants whom they re-bap<g ref="char:EOLhyphen"/>tize, have been truly baptized be<g ref="char:EOLhyphen"/>fore. <hi>Ergo,</hi> They act therein againſt Scripture. Now that our Infants are truly baptized, I thus demonſtrate;
+<pb n="25" facs="tcp:170530:18"/>Thoſe (whether men, women, or children) that are baptized in the right and true form of baptiſm, <hi>in the name of the Father, and of the Son, and of the holy Ghoſt,</hi> expreſly ſet down, <hi>Mat.</hi> 28.19. are truly baptized. But our Infants are thus baptized, and therefore are truly and rightly bapti<g ref="char:EOLhyphen"/>zed: For its a known Canon in Lo<g ref="char:EOLhyphen"/>gick, and received of all Learned men as a truth, that <hi>[forma dat eſſe]</hi> the form of a, thing gives its being unto it. And therefore Infants being baptized in this true and right form, are truly and rightly baptized and ſo ought not to be baptized again.</p>
+               <p>That Profeſſion of Chriſtian Faith,
+<label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>5</label> which was never publickly and open<g ref="char:EOLhyphen"/>ly acknowledged and owned by any Chriſtian Nation; but ever ſince its firſt hatching, hid it ſelf in corners and private Conventicles, &amp; was pro<g ref="char:EOLhyphen"/>feſſed only of ſome private perſons, cannot be the truth: for <hi>Veritas non quaerit angulos,</hi> Truth ſeeks not to ſculk and hide it ſelf in corners; but ſuch is Anabaptiſm: <hi>Ergo.</hi> The ma<g ref="char:EOLhyphen"/>jor Propoſition I make good, from thoſe many Texts of Scripture, where
+<pb n="26" facs="tcp:170530:19"/>its affirmed, that Nations, yea many nations ſhould flow unto the Church of the Goſpel (which is the ground and Pillar of truth, where truth is to be found) as <hi>Eſay</hi> 2.2. <hi>It ſhall come to paſs in the laſt daies, that the Moun<g ref="char:EOLhyphen"/>tain of the Lords Houſe ſhall be eſtabliſh<g ref="char:EOLhyphen"/>ed in the top of the Mountains, and ſhall be exalted above the hils, and all Nati<g ref="char:EOLhyphen"/>ons ſhall flow unto it.</hi> And the like ſentence is in <hi>Micah</hi> 4.1. which was fore-ſpoken of the ſtate and condition of the Church under the New Teſta<g ref="char:EOLhyphen"/>ment. And for the minor Propoſi<g ref="char:EOLhyphen"/>tion, let them make it appear, that ever any Nation did openly and pub<g ref="char:EOLhyphen"/>lickly, without reſtraint, make pro<g ref="char:EOLhyphen"/>feſſion of Anabaptiſm, and they ſhall be quit from the Concluſion. But this was never yet done, nor indeed can be done, <hi>Eſay</hi> 49.23. Its fore<g ref="char:EOLhyphen"/>told of the Church of the New Teſta<g ref="char:EOLhyphen"/>ment, that <hi>Kings ſhould be nurſing Fa<g ref="char:EOLhyphen"/>thers and Queens ſhould be nurſing Mo<g ref="char:EOLhyphen"/>thers unto it:</hi> That is, that there ſhould be ſome ſupream Civil Ma<g ref="char:EOLhyphen"/>giſtrates that ſhould be propitious to it, and Protectors of it: But this honour was never done to Anabap<g ref="char:EOLhyphen"/>tiſts;
+<pb n="27" facs="tcp:170530:19"/>there was never King nor Queen nor Supream Magiſtrate, that hath protected their Profeſſion, nor the Profeſſors thereof, under that notion; but have alwaies declared their diſlike and diſtaſt of them; which undenia<g ref="char:EOLhyphen"/>bly ſecludes them from being that true Church of Chriſt there ſpoken of, (which yet is their Phariſaical boaſt) and proclaims them to be a Set and Sect of Schiſmaticks, that have ground<g ref="char:EOLhyphen"/>leſly made a ſcandalous and dange<g ref="char:EOLhyphen"/>rous ſeparation of themſelves from that true Church of Chriſt, whereof divers Civil Magiſtrates have been for many ages, and ſtill are the conſtant and reſolute Protectors and Defend<g ref="char:EOLhyphen"/>ers.</p>
+            </div>
+            <div n="3" type="point">
+               <pb n="28" facs="tcp:170530:20"/>
+               <head>The Third Point. </head>
+               <argument>
+                  <p>
+                     <hi>Swaſory and Conſiderable reaſons to bend and ſway with all Anabaptiſts to re<g ref="char:EOLhyphen"/>pudiate and renounce the errour of their way.</hi>
+                  </p>
+               </argument>
+               <p>THE firſt reaſon that I ſhall ten<g ref="char:EOLhyphen"/>der to their due conſideration,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>1</label> is this, Becauſe Perſons of that Profeſ<g ref="char:EOLhyphen"/>ſion, are generally void of Charity; which Charity being the cognizance of a diſciple of Chriſt, as is taught by Chriſt himſelf, <hi>John</hi> 13.35. <hi>By this ſhall all men know that ye are my Diſci<g ref="char:EOLhyphen"/>ples, if ye have love one to another:</hi> And being alſo a Badge of truth, as St. <hi>John</hi> affirms, 1 <hi>John</hi> 3.19. <hi>Thereby</hi> (ſaith he, ſpeaking of Love or Charity) <hi>we know that we are of the truth.</hi> The contrary thereto, which is uncharitableneſs, muſt needs be the Livery of ſuch as are adver<g ref="char:EOLhyphen"/>ſaries to Chriſt and his truth, and therefore to be abhorred and abandoned.</p>
+               <pb n="29" facs="tcp:170530:20"/>
+               <p>Now that they are uncharitable, appears theſe two waies.</p>
+               <p n="1">1. From their ſeparation of them<g ref="char:EOLhyphen"/>ſelves from all other Chriſti<g ref="char:EOLhyphen"/>an Congregations, and refuſing Churh-fellowſhip and ſociety with them.</p>
+               <p n="2">2. From their oſtentation and boaſting of themſelves to be the only Church and people of God upon earth, and cenſuring all others as unregenerate Perſons, and ſo out of Gods true Church; and thereupon term them <hi>the world,</hi> (as one that was of their Profeſ<g ref="char:EOLhyphen"/>ſion and Aſſociation, but is now reclaimed, hath certified and aſſu<g ref="char:EOLhyphen"/>red me) Whereas <hi>Charity thinketh not evil, but believeth all things and hopeth all things,</hi> 1 Cor. 13.5, &amp; 7r Now by this uncharitable cenſure of theirs, they condemn not only all the Reformed Churches of Chriſtendom (amongſt which there be Millions of Saints) but all the Martyrs in Queen <hi>Maries</hi> daies here in <hi>England,</hi> and all the Mar<g ref="char:EOLhyphen"/>tyrs in the Primitive Church, that never were dipt after their Infant-Baptiſm,
+<pb n="30" facs="tcp:170530:21"/>Baptiſm, and yet lived godlily, and ſuffered gloriouſly, and died comfortably.</p>
+               <p>That the Martyrs in the Primi<g ref="char:EOLhyphen"/>tive Church lived and died with ſignal and apparent evidences of extraordinary divine Graces, and ſupernatural comforts imparted and infuſed into them, is witneſſed (as by other Eccleſiaſtical Hiſtorians) ſo, by that creditable Author, <hi>Euſe<g ref="char:EOLhyphen"/>bius,</hi> in his Eccleſiaſtical Hiſtory, <hi>Lib.</hi> 8. <hi>Cap.</hi> 12. toward the end: where he teſtifieth of them, That they ſo ſhined throughout the world in their afflictions, that the behold<g ref="char:EOLhyphen"/>ers wondred at their patience and noble courage, and that (ſaith he there) was not without cauſe; for they expreſſed and ſhewed forth unto the world ſpecial and manifeſt ſigns of the divine and un<g ref="char:EOLhyphen"/>ſpeakable power of our Saviour Chriſt working by them.</p>
+               <p>And for the Martyrs in Queen <hi>Maries</hi> daies, Mr. <hi>Fox</hi> in his Hi<g ref="char:EOLhyphen"/>ſtory of them, recordeth many ſpeeches uttered by them, which were manifeſt evidences of Gods
+<pb n="31" facs="tcp:170530:21"/>divine Graces and Comforts in an extraordinary meaſure and manner conferred and breathed upon them. And therefore to cenſure both theſe and all other Chriſtian Profeſſors in the world beſides themſelves, to be without God in the world, ſets a ſhameful brand of Phariſaical pride and uncharitableneſs upon them: And is enough to make both the ears of all that hear it to tingle, and their hearts to boil with in<g ref="char:EOLhyphen"/>dignation againſt them, and divers wiſe and godly perſons wonder, that they are not more ſtrictly dealt withal and reſtrained; this and ſome others of their groſs hallucinations and errours, and pre<g ref="char:EOLhyphen"/>ſumptuous and irregular extravagan<g ref="char:EOLhyphen"/>cies and Practiſes conſidered.</p>
+               <p>A ſecond Reaſon that I ſhall offer to their conſideration, is this,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>2</label> Their preſumptuous confidence in their own Opinions and Judiciouſ<g ref="char:EOLhyphen"/>neſs; preferring the ſame before the wiſdom and judgment of mil<g ref="char:EOLhyphen"/>lions of eminently Learned and Godly Chriſtians (and many of them Martyrs) who lived before
+<pb n="32" facs="tcp:170530:22"/>them, and that in all ages, even next to the Apoſtles, as hath been former<g ref="char:EOLhyphen"/>ly declared. This is contrary to the preſcript Rules, Directions, and Sanctions of the holy Scripture, as in <hi>Prov.</hi> 3.7. <hi>Be not wiſe in thine own eyes.</hi> And Prov. 26.12. <hi>Seeſt thou a man wiſe in his own conceit? there is more hope of a fool than of him.</hi> Eſay. 5.21. <hi>Wo unto them that are wiſe in their own eyes, and prudent in their own ſight.</hi> Luke 9.23. <hi>If any man will come after me, let him deny himſelf:</hi> Which ſelf<g ref="char:EOLhyphen"/>denial in one point of it, conſiſts in the denial of a mans own rea<g ref="char:EOLhyphen"/>ſon and wiſdom, <hi>Rom.</hi> 12.6. <hi>Be not wiſe in your own conceit.</hi> Its not to be queſtioned, but that the Chriſtians of the Primitive Church, and the Learned holy Fathers that ſucceeded them (who were main and ſtrenuous Props and Pillars of the true Chriſtian Faith, in defence thereof againſt the Hereſies of thoſe times) as alſo the modern, learned and illuſtrious Divines, the late Re<g ref="char:EOLhyphen"/>formers of Religion, <hi>Luther, Zuing<g ref="char:EOLhyphen"/>lius, Melancthon, Peter Martyr,
+<pb n="33" facs="tcp:170530:22"/>Calvin, Junius, Beza, Zanchy, Chemnitius,</hi> with many ſuch of other Nations; and thoſe Renowned, Pi<g ref="char:EOLhyphen"/>ous and Learned Divines of our own Nation, that lived but a few years ſince; as <hi>Cranmer,</hi> a Biſhop and a Martyr, <hi>Jewel, Whittaker, Reighnolds, Andrews, Perkins,</hi> Bi<g ref="char:EOLhyphen"/>ſhop <hi>Uſher,</hi> Biſhop <hi>Hall, Hooker,</hi> with thouſands more, who were Di<g ref="char:EOLhyphen"/>vines of ſingular and tranſcendent piety and Learning: It's not to be queſtioned (I ſay) but that theſe men did ſeriouſly and ſearchingly and throughly ſift and examine this Point of Infant-Baptiſm, yet con<g ref="char:EOLhyphen"/>cluded for it, and owned it to the laſt period of their lives without any ſcruple at all. And is it likely that a few Illiterate Perſons (I ſpeak it comparatively, namely, in reſpect of thoſe ſo profoundly Learned before-named) ſhould eſpy out ſuch an errour to be crept into Gods Church, as they were never able to diſcover.</p>
+               <p>Oh be humbled now in your ſelves, all ye ſelf-conceited and perverſe Anabaptiſts, and lay your
+<pb n="34" facs="tcp:170530:23"/>hands upon your mouths, and deny your ſelves, if ye will be Chriſts Diſciples, as ye would be accounted. And take unto you theſe or the like words, and ſay (as the truth is) Alas! we are weak men, and far inferiour to thoſe renowned Worthies and glorious Martyrs now mentioned, both in Learning, Per<g ref="char:EOLhyphen"/>ſpicacity, Judgment, True Zeal and Piety; and therefore we do acqui<g ref="char:EOLhyphen"/>eſce and ſubmit to the Judgment and Sentence of thoſe Learned, Judicious and illuſtrious holy Ones of God, ſo far excelling us in all divine Graces and Vertues. And the rather to bend you hereunto, remember how St. <hi>Peter</hi> hath ſet this Preſumption and ſelf-conceited<g ref="char:EOLhyphen"/>neſs as a black Brand upon the He<g ref="char:EOLhyphen"/>reticks of theſe laſt times, in 2 <hi>Pet.</hi> 2.10. Where he ſpeaks thus of them, <hi>That they are preſumptuous, and ſtand in their own conceit, and fear not to speak evil of them that are in Authority:</hi> And therefore it ſtands you in hand to beware that you wear not this Reproachful Li<g ref="char:EOLhyphen"/>very.</p>
+               <pb n="35" facs="tcp:170530:23"/>
+               <p>A Third Reaſon may be this,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>3</label> Becauſe they give great offence to many Godly Chriſtians, by ſepa<g ref="char:EOLhyphen"/>rating themſelves from the Con<g ref="char:EOLhyphen"/>gregations of the Reformed Chur<g ref="char:EOLhyphen"/>ches; which is repugnant to the Doctrine of the holy Scritpures, as is evident by theſe Texts, 1 <hi>Cor.</hi> 10.32. <hi>Give no offence neither to the Jews, nor to the Gentiles, nor to the Church of God.</hi> And <hi>Rom.</hi> 16.17. <hi>Now I beſeech you Brethren, mark them which cauſe diviſions and of<g ref="char:EOLhyphen"/>fences, contrary to the Doctrine which we have learned, and avoid them.</hi> Herein they proclaim themſelves to be ſuch vain oſtentators, as God complains of, <hi>Eſay</hi> 65.5. <hi>Who ſaid, ſtand by thy ſelf, come not near to me, for I am holier than thou;</hi> and yet they were <hi>a ſmoak in Gods Noſe, and a fire that burned all the day,</hi> as in the next words God himſelf pronounceth againſt them. Hereby alſo they declare themſelves to be ſuch Mockers, as St. <hi>Jude</hi> foretold ſhould appear in theſe laſt times, in the 18 and 19 <hi>v.</hi> of his Epiſtle; in that they thus ſeparate them<g ref="char:EOLhyphen"/>ſelves
+<pb n="36" facs="tcp:170530:24"/>from other godly Chriſtians; for <hi>theſe be they</hi> (ſaith he) <hi>that ſe<g ref="char:EOLhyphen"/>parate themſelves.</hi> If they ſhall ſay, that it is an offence taken, and not given: Its anſwered, that its the unanimous ſentence and judgment of all Learned and Orthodox Di<g ref="char:EOLhyphen"/>vines, both ancient and modern, and amply juſtifiable by Scripture, that neither corruption in manners in a particular Church, nor errours in matters of Ceremony, Circum<g ref="char:EOLhyphen"/>ſtance, or in the manner of Church-Government are a ſufficient ground or warrant for any particular per<g ref="char:EOLhyphen"/>ſons to deſert it and make ſepa<g ref="char:EOLhyphen"/>ration from it; but it muſt be ſome errour in the Fundamentals of Religion, that will juſtifie a ſeparation from any particular Church. Now the Church of <hi>England</hi> is not culpable or chargeable in the leaſt meaſure, of errour in any one particular Tenet, that ſtrikes at the Foundation of Chriſtian Belief, as I doubt not but they will ingeni<g ref="char:EOLhyphen"/>ouſly confeſs. And therefore their ſeparation from the Church of <hi>England,</hi> is an offence given by
+<pb n="37" facs="tcp:170530:24"/>them, and not an offence taken by us, who profeſs our ſelves Members of the ſaid Church.</p>
+               <p>I wonder that the example of our bleſſed Saviour is no more minded and regarded by them; who never refuſed to joyn himſelf to the Congregations of the Peo<g ref="char:EOLhyphen"/>ple of the <hi>Jews,</hi> though they were guilty of more foul errours, and groſs abuſes by many degrees, than the Church of <hi>England</hi> is. And its very apparent from St. <hi>Pauls</hi> Epiſtles to the <hi>Corinthians</hi> and <hi>Ga<g ref="char:EOLhyphen"/>latians,</hi> that neither errours which are not fundamental, nor corrupti<g ref="char:EOLhyphen"/>on in Manners, will warrant a ſe<g ref="char:EOLhyphen"/>paration from any Church; ſeeing he acknowledgeth and owneth both theſe, as the Churches of God; albeit he taxeth them both, both for palpable errours and foul miſ<g ref="char:EOLhyphen"/>demeanors (as is evident in the ſaid Epiſtles) and ſuch as were more groſs and dangerous errours that any the Church of <hi>England</hi> holds.
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>4</label> 
+               </p>
+               <p>A Fourth Reaſon ſhall be this; Becauſe their Sect hath hatched ſe<g ref="char:EOLhyphen"/>veral Broods of Fanatick, Vertigi<g ref="char:EOLhyphen"/>nous,
+<pb n="38" facs="tcp:170530:25"/>and Brain-<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ick perſons, that are looked upon by prudent perſons, as Monſters among Chriſtian Pro<g ref="char:EOLhyphen"/>feſſors, as <hi>Quakers, Ranters, Seek<g ref="char:EOLhyphen"/>ers</hi> and <hi>Adamites,</hi> the very ſcum and ſhame of Chriſtians: For theſe were never heard of, till they ſprang up from among their Diſciples, which their reſorting ſtill together doth evince and evidence. Whereas therefore ſuch prodigious and abominable Brats, or rather Monſters are hatched in their Neſt, its a ſhrewd ſigne that the Brood is naught.</p>
+               <p>A Fifth and laſt Reaſon that I ſhall propound to them to be weigh<g ref="char:EOLhyphen"/>ed in the ballance of their diſcre<g ref="char:EOLhyphen"/>tion,
+<label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>5</label> is this; Becauſe Perſons of their Profeſſion have never been accounted as ſound Members in the Body either of Church or Com<g ref="char:EOLhyphen"/>mon-wealth; but as Incendiaries and ſeditious Perſons, and Pertur<g ref="char:EOLhyphen"/>bers of the Peace both of Church and Common-wealth in all Nations and Countreys where they have appeared; and have been proceeded againſt accordingly, as by divers
+<pb n="39" facs="tcp:170530:25"/>examples in Hiſtories is very evi<g ref="char:EOLhyphen"/>dent. One of the firſt of this Sect, that ſhewed himſelf openly, was one <hi>Thomas Muntzer,</hi> who in the year [1523] publiſhed his doating errours of this ſort, at the City of <hi>Alſted</hi> in <hi>Saxony;</hi> who ſtirring up the People to ſedition alſo and inſurrection, whereby great tumults were raiſed, grievous outrages com<g ref="char:EOLhyphen"/>mitted, and many Thouſands ſlain, and himſelf being a principal Agi<g ref="char:EOLhyphen"/>tator and actor amongſt them, was at laſt apprehended by the <hi>Land-grave</hi> and the Duke of <hi>Sax<g ref="char:EOLhyphen"/>ony,</hi> at <hi>Frankenhuſium;</hi> where he was ſentenced to death by the ſaid Princes, and had his Head cut off and faſtened to a Stake. This ſtory of him and divers others of their Sect, is at large recorded by one Mr. <hi>Alexander Roſs,</hi> a late Reve<g ref="char:EOLhyphen"/>rend Divine, in the latter end of his Book entituled, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Or <hi>A View of all Religious in the world.</hi> Some queſtion is made, whether theſe Stories of the Anabaptiſts, were penned by himſelf or not; but it matters not, ſeeing the truth
+<pb n="40" facs="tcp:170530:26"/>of them is avouched by divers other Authors.</p>
+               <p>After this, or about the ſame time, one <hi>Balthaſar Pacimontanus,</hi> (a Clergy man of <hi>Ingolſtade</hi> in <hi>Germany</hi>) declared himſelf to be of this Sect (he was confuted and convinced both by <hi>Luther</hi> and <hi>Zuinglius</hi>) who perſiſting obſtinately in his errours, was at laſt burnt at <hi>Vienna,</hi> a famous City of <hi>Auſtria</hi> in the ſaid <hi>Germany;</hi> as <hi>Bellarmine</hi> reports in his firſt Book, <hi>de Sa<g ref="char:EOLhyphen"/>crament. Baptiſm.</hi> Cap. 8. from the Teſtimony of <hi>Johannes Cochlaeus.</hi>
+               </p>
+               <p>Afterwards appeared <hi>John Becold</hi> of <hi>Leiden,</hi> with his Aſſociates, at the City of <hi>Munſter</hi> in <hi>Holland;</hi> who for their prodigious Errours, Blaſphemies and wicked Practiſes, were openly condemned and put to death, about the year [1537] as the Hiſtory of them is written both by <hi>Sleidan</hi> and divers others, and notoriouſly known to be true.</p>
+               <p>Laſtly, (to omit very many other Inſtances) ariſeth up one <hi>Michael Servetus,</hi> a <hi>Spaniard</hi> by birth; one that Mr. <hi>Calvin</hi> laboured much with
+<pb n="41" facs="tcp:170530:26"/>to reduce from his errour of Ana<g ref="char:EOLhyphen"/>baptiſm, and ſome other Opinions that were blaſphemous, but not pre<g ref="char:EOLhyphen"/>vailing with him, to reclaim him, he was at length ſentenced to death by the Senate of <hi>Geneva,</hi> and there burnt, in the year [1553] as <hi>Chem<g ref="char:EOLhyphen"/>nitius</hi> witneſſeth, <hi>in locis communibus,</hi> Part 1. Cap. 2. <hi>de tribus Perſonis di<g ref="char:EOLhyphen"/>vinitatis.</hi>
+               </p>
+               <p>Conſider now therefore with your ſelves what comfort or encourage<g ref="char:EOLhyphen"/>ment ye can have to be the Diſciples and Followers of ſuch Leaders; who never yet were approved of in any Chriſtian Nation; but were ever ex<g ref="char:EOLhyphen"/>ploded, proceeded againſt and ſpued out as ſcandalous and criminous Offenders? Yea and even here a<g ref="char:EOLhyphen"/>mongſt your ſelves, divers of your eminent Leaders and Teachers have been notoriouſly and deſervedly fa<g ref="char:EOLhyphen"/>med to be of looſe and ſcandalous Converſation (whereof ye cannot be ignorant) which greatly blemiſh<g ref="char:EOLhyphen"/>eth your Profeſſion; becauſe ye pre<g ref="char:EOLhyphen"/>tend to more Holineſs (yea and make your boaſt thereof) than ye will ac<g ref="char:EOLhyphen"/>knowledge to be in others, who are
+<pb n="42" facs="tcp:170530:27"/>not of your Faith and Perſwaſion. If theſe Reaſons will not prevail with you, do deſert the errour, yea, the dangerous errour of your way, I have no more to ſay to you, but ſhall ten<g ref="char:EOLhyphen"/>der my Prayers for you (as St. <hi>Paul</hi> did for the <hi>Epheſians) To the God of our Lord Jeſus Chriſt, the Father of Glory, that he may give unto you the Spirit of wiſdom and revelation in the knowledge of him, the eyes of your underſtandings being open<g ref="char:EOLhyphen"/>ed, that ye may know, what is the hope of his calling, and what the riches of the Glory of his inheritance in the Saints.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:170530:27"/>
+            <head>Books ſold by <hi>Nathanael Webb</hi> at the Kings Head, and <hi>William Gran<g ref="char:EOLhyphen"/>tham,</hi> at the black Bear in St. <hi>Pauls</hi> Church-yard.</head>
+            <p>MAſter <hi>Iſaac Ambroſe, prima, media, &amp; ultima,</hi> [Firſt, Middle and Laſt things] in three Treatiſes, in 4.</p>
+            <p>— Looking to Jeſus; a View of the everlaſting Goſpel, in 4.</p>
+            <p>— Redeeming the time: a Sermon in 4.</p>
+            <p>Mr. <hi>Richard Tines</hi> on the Sacrament in 4.</p>
+            <p>Mr. <hi>Nathanael Hardy,</hi> ſeveral Sermons, preached upon ſolemn occaſions, collected into one Volume, in 4.</p>
+            <p>— [The firſt Epiſt. General of St. <hi>John</hi>] unfolded and applied, in 22 Sermons, in 4.</p>
+            <p>[Hiſtory ſurvey'd in a brief Epitome: or a Nurſery for Gentry] compriſed in an in<g ref="char:EOLhyphen"/>termixed diſcourſe upon Hiſtorical and Po<g ref="char:EOLhyphen"/>etical Relations in 4.</p>
+            <p>Mr. <hi>William Nicolſon's</hi> Expoſition of the Church Catechiſm, in 4.</p>
+            <p>Dr. <hi>Stoughton</hi>'s 13 Sermons, being an introduction to the Body of Divinity, in 4.</p>
+            <p>Dr. <hi>John Preſton</hi> [A Poſition delivered in <hi>Cambridge</hi> concerning the irreſiſtableneſs of converting Grace, in 4.</p>
+            <p>Mr. <hi>Thomas Cradock</hi> [Goſpel Liberty] in the Extention and Limitation of it, in 4.</p>
+            <p>Mr. <hi>John Browning</hi> [concerning publick Prayer, and the Faſts of the Church, in 4.</p>
+            <p>Mr. <hi>Rich. Lewthwat [Vindiciae Chriſti &amp;
+<pb facs="tcp:170530:28"/>obex errori Arminiano]</hi> A plea for Chriſt, in 4.</p>
+            <p>Mr. <hi>John Lawſons</hi>'s [Gleanings and Ex<g ref="char:EOLhyphen"/>poſitions of ſome of the more difficu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> places of holy Scripture] in 4.</p>
+            <p>Mr. <hi>John Cotton</hi> [The way of the Chur<g ref="char:EOLhyphen"/>ches of Chriſt in <hi>N. England</hi>] in 4.</p>
+            <p>Mr. <hi>Edward Thorp</hi> [the New Birth, or Birth from above] in 4.</p>
+            <p>Mr. <hi>John Ley</hi>'s Diſcourſe of Diſputation<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in matters of Religion</p>
+            <p>[The Beacon flaming, with a <hi>non obſta<gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> agninſt thoſe that plead for liberty of Print<g ref="char:EOLhyphen"/>ing and publiſhing Popiſh Books] in 4.</p>
+            <p>Mr. <hi>Nathanael Stephens</hi> [A precept for the Baptiſm of Infants, out of the N.T.] in 4.</p>
+            <p>Dr. <hi>Sam Anneſly</hi> [the firſt Diſh at the <hi>Wiltſhire</hi> Feaſt] a Sermon preached before many worthy Citizens of <hi>London</hi> born in that County, in 4.</p>
+            <p>[Communion with God] in two Se<g ref="char:EOLhyphen"/>mons preached at <hi>Pauls,</hi> in 4.</p>
+            <p>Mr. <hi>Edmund Calamy</hi> [The Monſter of ſin<g ref="char:EOLhyphen"/>ful ſelf-ſeeking anatomized] preached at <hi>Pauls.</hi>
+            </p>
+            <p>Mr. <hi>John Warren</hi> [The Potent Potter] Sermon preached before the Parl. in 4.</p>
+            <p>—[The unprofitable Servant [A Se<g ref="char:EOLhyphen"/>mon preached at an Aſſize, in 4.</p>
+            <p>—Mans Fury ſubſervient to Gods glory preached to the Parliament.</p>
+            <p>Dr. <hi>Robert Gell,</hi> Of Gods Government o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the world by Angels, preacht before the Aſtrologers, in 4.</p>
+            <p>—<hi>Noah</hi>'s Floud returning, A Sermon.</p>
+            <p>Dr. <hi>John Wincop</hi> [Gods Call to weepin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:170530:28"/>and mourning] preached before the P. in 4.</p>
+            <p>Mr. <hi>George Walker,</hi> A Sermon preached before the parliament, in 4.</p>
+            <p>
+               <hi>Rich. Meggot</hi> [The Rib reſtored] or the honour of Marriage, a Wedding Sermon.</p>
+            <p>Mr. <hi>Will. Good [Jacob</hi> raiſed] a Sermon preached before the Parliament, in 4.</p>
+            <p>Mr. <hi>Thomas Goodwin</hi> [The great Intereſt of States and Kingdoms] a Sermon preach<g ref="char:EOLhyphen"/>ed before the Parl. in 4.</p>
+            <p>Mr. <hi>Sam. Kem,</hi> A Sermon preached upon the choice of Burgeſſes for the City of <hi>Briſtol,</hi> in 4.</p>
+            <p>Mr. <hi>Ambr. Stavely [Index Expurgatorius,</hi> A ſhort Examination of the Doctrine of Purgatory] a Sermon in 4.</p>
+            <p>Mr. <hi>Peter Sterry</hi> [the Clouds in which Chriſt comes] a Sermon preached before the Parl. in 4.</p>
+            <p>—[The teachings of Chriſt in the Soul] a Sermon preached before the Parl. in 4.</p>
+            <p>Mr. <hi>Robert Wilde,</hi> the arraignment of a Sinner at the Bar of Divine Juſtice; An Aſſize Sermon.</p>
+            <p>Mr. <hi>Giles Firmin,</hi> Stabliſhing againſt Shaking, or a diſcovery of the Prince of darkneſs <hi>(Scarcely)</hi> tranſformed into an Angel of light, powerfully now working in the deluded people called Quakers, in 4.</p>
+            <p>—Mr. <hi>Stephen Marſhal,</hi> The power of the civil Magiſtrate in matters of Religion.</p>
+            <p>Mr. <hi>George Swinock,</hi> The Gods are men, An aſſize Sermon.</p>
+            <p>Mr. <hi>Ben. Needler</hi> [expoſitory notes, with Practical Obſervations upon <hi>Geneſis</hi>] in 8.</p>
+            <pb facs="tcp:170530:29"/>
+            <p>Mr. <hi>Giles Firmin,</hi> Of Schiſm, againſt Dr. <hi>Owen.</hi>
+            </p>
+            <p>Mr. <hi>Votier,</hi> Of Effectual Calling.</p>
+            <p>Mr. <hi>George Hopkins</hi> [Salvation from ſin by Jeſus Chriſt] or the Doctrine of Sancti<g ref="char:EOLhyphen"/>fication, in 8.</p>
+            <p>Mr. <hi>John Trap, Theologia Theologiae</hi> A Treaſury of holy truths, touching Go<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Word, and God the Word, in 8.</p>
+            <p>BP. <hi>Davenant</hi> [An exhortation to Bro<g ref="char:EOLhyphen"/>therly communion betwixt the Proteſtant Churches] in 8.</p>
+            <p>Mr. <hi>John Simſon,</hi> [The Perfection <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Juſtification, <hi>&amp;c.</hi>] in 8.</p>
+            <p>Mr. <hi>Hall,</hi> [The Loathſomneſs of long Hair] alſo againſt Painting, Spots, and Naked Breaſts, in 8.</p>
+            <p>—[<hi>Vindiciae Literarum,</hi> the Schools guarded] or the excellency and uſefulneſs of Humane Learning in ſubordination to Divinity, in 8.</p>
+            <p>Mr. <hi>John Warren</hi> [Principles of Chriſtian practiſe] illuſtrated, with Queſtions and Scripture Anſwers, in 8.</p>
+            <p>Mr. <hi>Daniel Evans</hi> [a Catechiſm about Infants Baptiſm, in 8.</p>
+            <p>[The Practiſe of Chriſtianity] or the Epitome of Mr. <hi>Rogers</hi> ſeven treatiſes, in 12</p>
+            <p>Mr <hi>Thomas Jackſon</hi> [the true evangeli<g ref="char:EOLhyphen"/>cal temper, <hi>&amp;c.</hi>] in 12.</p>
+            <p>Mr. <hi>Tho. Gery,</hi> the Fort Royal of Chri<g ref="char:EOLhyphen"/>ſtianity defended, to prove the Scriptures to be the Word of God.</p>
+            <p>Mr. <hi>Mullard</hi> [celeſtial Soliloquies] ſe<g ref="char:EOLhyphen"/>veral Divine Meditations and Prayers drawn from the holy Scriptures, in 12.</p>
+            <pb facs="tcp:170530:29"/>
+         </div>
+      </back>
+   </text>
+</TEI>
